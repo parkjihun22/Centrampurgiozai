@@ -588,8 +588,8 @@ const Main = () => {
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox1}>
             <div className={styles.mainImageTextSub1}>
-              원도심 최중심에서 시작되는 새로운 기준, 높은 미래가치<br/>
-              청주 센텀 푸르지오 자이가 제시하는 프리미엄 주거<br />
+              원도심 최중심에서 시작되는<br/> 새로운 기준, 높은 미래가치<br/>
+              청주 센텀 푸르지오 자이가<br/> 제시하는 프리미엄 주거<br />
               <span className={styles.greyText1}>브랜드 프리미엄</span>
               <br />
             </div>
